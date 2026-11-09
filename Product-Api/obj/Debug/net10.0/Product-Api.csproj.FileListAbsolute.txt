@@ -48,3 +48,6 @@ C:\Users\lucas\ApiContatos\Product-Api\obj\Debug\net10.0\refint\Product-Api.dll
 C:\Users\lucas\ApiContatos\Product-Api\obj\Debug\net10.0\Product-Api.pdb
 C:\Users\lucas\ApiContatos\Product-Api\obj\Debug\net10.0\Product-Api.genruntimeconfig.cache
 C:\Users\lucas\ApiContatos\Product-Api\obj\Debug\net10.0\ref\Product-Api.dll
+C:\Users\lucas\ApiContatos\Product-Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\ApiContatos\Product-Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\ApiContatos\Product-Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
